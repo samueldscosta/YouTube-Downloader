@@ -54,7 +54,7 @@ python main.py
 
 ## License
 
-Distributed under the MIT license. See [LICENSE](https://github.com/samueldscosta/YouTube-Downloader/blob/main/LICENSE) for more information.
+Distributed under the MIT license. See [_LICENSE_](https://github.com/samueldscosta/YouTube-Downloader/blob/main/LICENSE) for more information.
 
 > [!NOTE]
 > The application fulfills my current needs, but I plan to optimize the code and add new features in the future. There are many exciting enhancements to be made, so feel free to collaborate.
